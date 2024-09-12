@@ -26,4 +26,88 @@ World best and powerfull whatsapp user bot in KOLKATA*/
 
 
 
-const _0x550ba5=_0x1d38;(function(_0x5b205b,_0x2fa1c1){const _0x1bfc71=_0x1d38,_0x12dbfd=_0x5b205b();while(!![]){try{const _0xa49970=-parseInt(_0x1bfc71(0x15c))/0x1*(parseInt(_0x1bfc71(0x161))/0x2)+-parseInt(_0x1bfc71(0x159))/0x3*(parseInt(_0x1bfc71(0x151))/0x4)+-parseInt(_0x1bfc71(0x15f))/0x5+parseInt(_0x1bfc71(0x15d))/0x6+-parseInt(_0x1bfc71(0x163))/0x7*(-parseInt(_0x1bfc71(0x157))/0x8)+parseInt(_0x1bfc71(0x153))/0x9*(parseInt(_0x1bfc71(0x15a))/0xa)+parseInt(_0x1bfc71(0x156))/0xb;if(_0xa49970===_0x2fa1c1)break;else _0x12dbfd['push'](_0x12dbfd['shift']());}catch(_0x4cc413){_0x12dbfd['push'](_0x12dbfd['shift']());}}}(_0x47d9,0x8b5a8));const fetch=(..._0x55aab2)=>import('node-fetch')[_0x550ba5(0x150)](({default:_0x105076})=>_0x105076(..._0x55aab2)),APIs={0x1:_0x550ba5(0x155),0x2:_0x550ba5(0x154),0x3:_0x550ba5(0x158),0x4:'https://apps.evozi.com/apk-downloader',0x5:_0x550ba5(0x15b),0x6:'https://cafebazaar.ir'},Proxy=_0x1114a2=>_0x1114a2?_0x550ba5(0x152)+encodeURIComponent(_0x1114a2)+_0x550ba5(0x162):'',api=(_0x3cfa35,_0x1a59e9='/',_0x1f216f={})=>(_0x3cfa35 in APIs?APIs[_0x3cfa35]:_0x3cfa35)+_0x1a59e9+(_0x1f216f?'?'+new URLSearchParams(Object[_0x550ba5(0x160)]({..._0x1f216f})):'');module[_0x550ba5(0x15e)]={'APIs':APIs,'Proxy':Proxy,'api':api};function _0x1d38(_0xd749cf,_0x53f3d5){const _0x47d910=_0x47d9();return _0x1d38=function(_0x1d384a,_0x3a07fb){_0x1d384a=_0x1d384a-0x150;let _0x1c10b1=_0x47d910[_0x1d384a];return _0x1c10b1;},_0x1d38(_0xd749cf,_0x53f3d5);}function _0x47d9(){const _0x29dcce=['21mORKDq','990876rpboHV','exports','5122415cnjMuY','entries','58654YQhnSN','&client=webapp','5313PnYhha','then','211180aVHqTU','https://translate.google.com/translate?sl=en&tl=fr&hl=en&u=','9SNGhMH','apk-dl.com','https://apkcombo.com','27472467BLbeWr','3400oTysEG','https://apk.support','45yeGbPZ','178490iLorNM','http://ws75.aptoide.com/api/7'];_0x47d9=function(){return _0x29dcce;};return _0x47d9();}
+import chalk from 'chalk'
+import { fileURLToPath } from 'url'
+import { watchFile, unwatchFile, readFileSync } from 'fs'
+
+global.owner = 
+ [
+  ['+919332425327', 'ᴴᴱᴿᴼᴮᴿᴵᴺᴱ', true]
+]
+// Put your number here
+// [number, he creator/owner?, he developer?]
+
+global.mods = [] // Want some help?
+global.prems = [] // Premium user has unlimited limit
+
+
+
+ global.thumbnailUrl = [
+  'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
+  'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
+  'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
+  'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
+  'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
+]
+
+// Sticker WM
+global.packname = `「 Cʀᴇᴀᴛᴇᴅ Bʏ 𝖑𝖚𝖙𝖍𝖊𝖊𝖗 」`
+global.author = ''
+global.thumb = readFileSync('./me.png')
+global.thumb2 = readFileSync('./me2.jpeg')
+global.multiplier = 69 // The higher, The harder levelup
+
+//Text here
+global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ  𝔡𝔱𝔵 𝔰𝔱𝔲𝔡𝔦𝔬 - 2024'
+global.bott = '𝓗𝓔𝓡𝓞𝓑𝓡𝓘𝓝𝓔 𝓜𝓓'
+global.nomorown = '+919332425327'
+// owner put this creator.js
+global.str = '-------------'
+global.l = '「'
+global.r = '」'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」ʟ ᴏ ᴀ ᴅ ɪ ɴ ɢ...```'
+global.eror = '```404 ᴇʀʀᴏʀ```'
+
+global.rpg = {
+  emoticon(string) {
+    string = string.toLowerCase()
+    let emot = {
+      level: '🧬',
+      limit: '🌌',
+      health: '❤️',
+      exp: '✉️',
+      money: '💵',
+      potion: '🥤',
+      diamond: '💎',
+      common: '📦',
+      uncommon: '🎁',
+      mythic: '🗳️',
+      legendary: '🗃️',
+      pet: '🎁',
+      trash: '🗑',
+      armor: '🥼',
+      sword: '⚔️',
+      wood: '🪵',
+      rock: '🪨',
+      string: '🕸️',
+      horse: '🐎',
+      cat: '🐈',
+      dog: '🐕',
+      fox: '🦊',
+      petFood: '🍖',
+      iron: '⛓️',
+      gold: '👑',
+      emerald: '💚'
+    }
+    let results = Object.keys(emot).map(v => [v, new RegExp(v, 'gi')]).filter(v => v[1].test(string))
+    if (!results.length) return ''
+    else return emot[results[0][0]]
+  }
+}
+
+let file = fileURLToPath(import.meta.url)
+watchFile(file, () => {
+  unwatchFile(file)
+  console.log(chalk.cyanBright("Update 'config.js'"))
+  import(`${file}?update=${Date.now()}`)
+})
