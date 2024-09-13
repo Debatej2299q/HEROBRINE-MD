@@ -12,6 +12,11 @@
 <a href="https://github.com/Debatej2299q/HEROBRINE-MD/network"><img title="Forks" src="https://img.shields.io/github/forks/Debatej2299q/HEROBRINE-MD?style=social"></a>
 <a href="https://github.com/Debatej2299q/HEROBRINE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Debatej2299q/HEROBRINE-MD?label=Watching&style=social"></a>
 
+<p align="center"> 
+| <img src="HEROBRINE THEME/HERO.jpg" width=200 height=150></a> | <img src="HEROBRINE THEME/hero4.jpg" width=200 height=150></a> |<img src="HEROBRINE THEME/hero2.jpg" width=200 height=150 ></a> |
+
+  
+<img width="48" height="48" src="https://img.icons8.com/material/48/pokemon.png" alt="pokemon"/>
 <p align="center">
   <a href="https://github.com/Debatej2299q">
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
@@ -20,23 +25,10 @@
   
 `HEROBRINE MD - By LUTHER`
 
-  <h1>
-  i really like music :headphones:
-</h1>
-
-<p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
-  </a>
-</p>
 <p align="center">
   <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
   <i>inspired by <a href="https://github.com/Debatej2299q">HEROBRINE</a></i>
 </p>
-
-
 
 
 <h4 align="left">  
