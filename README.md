@@ -23,7 +23,7 @@
     
 ## `Main Dev` 
 <a href="https://github.com/Debatej2299q"><img src="https://github.com/Debatej2299q.png" width="250" height="250" alt="Debatej2299q"/></a>
-<a href="https://github.com/mrluther-on"><img src="https://github.com/Debatej2299q.png" width="250" height="250" alt="mrluther-on"/></a>
+<a href="https://github.com/mrluther-on"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="MRLUTHER"/></a>
   
 `HEROBRINE MD - By LUTHER`
 
@@ -32,6 +32,20 @@
   <i>inspired by <a href="https://github.com/Debatej2299q">HEROBRINE</a></i>
 </p>
 
+**Note:** You'll need to set these environment variables 
+
+| Variable | Description 
+|---|---|
+| DATABASE_URL | URL for connecting to your mongodb database | 
+| SESSION_ID | your session id | 
+| REMOVEBG_KEY | API key for www.remove.bg | 
+| PREFIX | put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix |
+| MODE | mode public or private |
+| autoRead | make it true if you want bot to read messages |
+| statusview | make it true if you want bot to view status | 
+| OWNERS | owner number(917605902011;GURU;6281255369012;Ash) | 
+| BOTNAME | Your Bot Name | 
+| antidelete | bot will forward deleted messages if you make it true | 
 
 <h4 align="left">  
  
