@@ -2,7 +2,15 @@
 <p align="center"> 
 <img src="herobrine.jpg" width="670" height="300"/>
 </p>
-<a href="https://github.com/franceking1/Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+<p align="center">
+<p align="center">
+<a href="https://github.com/Debatej2299q/HEROBRINE-MD"><img title="Author" src="https://img.shields.io/badge/HEROBRINE-MD-black?style=for-the-badge&logo=github"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/Debatej2299q?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Debatej2299q?label=Followers&style=social"></a>
+<a href="https://github.com/Debatej2299q/HEROBRINE-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Debatej2299q/HEROBRINE-MD?&style=social"></a>
+<a href="https://github.com/Debatej2299q/HEROBRINE-MD/network"><img title="Forks" src="https://img.shields.io/github/forks/Debatej2299q/HEROBRINE-MD?style=social"></a>
+<a href="https://github.com/Debatej2299q/HEROBRINE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Debatej2299q/HEROBRINE-MD?label=Watching&style=social"></a>
 
 <p align="center">
   <a href="https://github.com/Debatej2299q">
