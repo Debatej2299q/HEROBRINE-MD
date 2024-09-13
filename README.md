@@ -26,7 +26,7 @@
 
 ## `BOT OWNER`
 <a href="https://github.com/Debatej2299q"><img src="https://github.com/Debatej2299q.png" width="150" height="150" alt="Debatej2299q"/></a>
-**[» Contact For](https://wa.me/+916900223549)**
+**[» Contact For](https://wa.me/+918761888106)**
   
 `HEROBRINE MD - By LUTHER`
 
