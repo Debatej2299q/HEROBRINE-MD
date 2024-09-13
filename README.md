@@ -1,6 +1,7 @@
-# ⚡SUBARU-MD-V1
 
-# ⚡Will available soon
+<p align="center"> 
+<img src="hero3.jpg" width="390" height="300"/>
+</p>
 
 
 <p align="center">
