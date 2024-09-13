@@ -14,12 +14,15 @@
 
 <p align="center">
   <a href="https://github.com/Debatej2299q">
-
+    
+## `Main Dev` 
+<a href="https://github.com/Debatej2299q"><img src="https://github.com/Debatej2299q.png" width="250" height="250" alt="Guru322"/></a>
+  
+`HEROBRINE MD - By LUTHER`
   <h1>
   i really like music :headphones:
 </h1>
 
-<!-- Nothing weird to see here -->
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
