@@ -19,11 +19,14 @@
 <img width="48" height="48" src="https://img.icons8.com/material/48/pokemon.png" alt="pokemon"/>
 <p align="center">
   <a href="https://github.com/Debatej2299q">
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+  <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
     
-## `Main Dev` 
-<a href="https://github.com/Debatej2299q"><img src="https://github.com/Debatej2299q.png" width="250" height="250" alt="Debatej2299q"/></a>
-<a href="https://github.com/mrluther-on"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="MRLUTHER"/></a>
+## `MAIN DEVELOPER` 
+<a href="https://github.com/mrluther-on"><img src="https://github.com/mrluther-on.png" width="150" height="150" alt="MRLUTHER"/></a> **[» Contact For](https://wa.me/+919332425327)**
+
+## `BOT OWNER`
+<a href="https://github.com/Debatej2299q"><img src="https://github.com/Debatej2299q.png" width="150" height="150" alt="Debatej2299q"/></a>
+**[» Contact For](https://wa.me/+916900223549)**
   
 `HEROBRINE MD - By LUTHER`
 
