@@ -48,8 +48,8 @@
 | MODE | mode public or private |
 | autoRead | make it true if you want bot to read messages |
 | statusview | make it true if you want bot to view status | 
-| OWNERS | owner number(917605902011;GURU;6281255369012;Ash) | 
-| BOTNAME | Your Bot Name | 
+| OWNERS | owner number(919614477116;LUTHER) | 
+| BOTNAME | Your Bot Name | HEROBRINE
 | antidelete | bot will forward deleted messages if you make it true | 
 
 <h4 align="left">  
